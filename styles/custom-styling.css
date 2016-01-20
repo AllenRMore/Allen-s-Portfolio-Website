@@ -1,0 +1,109 @@
+.top-third {
+    height: 900px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url("../images/testtubes.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+.middle-third {
+    height: 930px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+    background: url("../images/thermometer.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+.bottom-third {
+    height: 930px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url("../images/electricity.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+#contact {
+    height: 930px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    background: url("../images/contact.jpg") no-repeat center fixed;
+    background-size: cover;
+    color: white;
+}
+.title {
+  color: white;
+  position: relative;
+  top: 175px;
+  font-size: 100px;
+  text-shadow: 3px 3px 3px black;
+}
+.caption {
+  color: black;
+  position: relative;
+  top: 140px;
+  font-size: 50px;
+  font-family: monospace;
+}
+hr {
+    position: relative;
+    top: 270px;
+    width: 675px;
+    border-top: 2px solid;
+    border-bottom: 1px solid white;
+}
+.social-buttons {
+  position: relative;
+  top: 250px
+}
+.profile-pic {
+  display: block;
+  position: relative;
+  left: 500px;
+  top: 120px;
+  height: 400px;
+  width: auto;
+}
+#bio-head {
+  font-size: 70px;
+  margin-bottom: 40px;
+  text-shadow: 1px 2px 2px #676798;
+}
+.bio-body {
+  width: 900px;
+  font-size: 25px;
+  font-family: monospace;
+}
+.project img {
+  margin-top: 100px;
+  width: 400px;
+  height: auto;
+}
+#projects-title {
+  font-size: 70px;
+  color: #cc9900;
+}
+.contact-me {
+  font-size: 50px;
+}
+#thanks {
+  margin-top: 250px;
+}
+#email {
+  margin-top: 200px
+}
+.proj-desc {
+  background-color: #404040;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  color: #cc9900;
+  width: 400px;
+  position: relative;
+  left: 48px;
+  font-size: 20px;
+}
+.bot-proj {
+  position: relative;
+  left: 180px;
+}
